@@ -1,4 +1,4 @@
-## Website Down Detector. 
+## Java Website Down Detector. 
 This simple app can send http request to certain website URL or IP address and check the returned status code. 
 It can tell the user that if that website is accessible or not, and if the SSL certificate is Invalid.
 
